@@ -1,0 +1,44 @@
+[
+  {
+    "experiment": "B1 Scratch",
+    "accuracy": 0.42953020134228187,
+    "macro_f1": 0.39678772037974647,
+    "duration": 208.61,
+    "best_val_loss": 1.5578241823899626
+  },
+  {
+    "experiment": "B2 Feature Extraction",
+    "accuracy": 0.9261744966442953,
+    "macro_f1": 0.9267124154094495,
+    "duration": 219.42,
+    "best_val_loss": 0.21564189394816807
+  },
+  {
+    "experiment": "B3 Fine-Tuning",
+    "accuracy": 0.9328859060402684,
+    "macro_f1": 0.9330005617449402,
+    "duration": 87.2,
+    "best_val_loss": 0.20218923151091694
+  },
+  {
+    "experiment": "B4 Without Augmentation",
+    "accuracy": 0.9328859060402684,
+    "macro_f1": 0.9337873438668142,
+    "duration": 182.74,
+    "best_val_loss": 0.20745311858076038
+  },
+  {
+    "experiment": "B4 With Augmentation",
+    "accuracy": 0.9228187919463087,
+    "macro_f1": 0.9235815997621545,
+    "duration": 227.16,
+    "best_val_loss": 0.23253062106543518
+  },
+  {
+    "experiment": "B5 EfficientNet-B0",
+    "accuracy": 0.9161073825503355,
+    "macro_f1": 0.9162951724835645,
+    "duration": 273.42,
+    "best_val_loss": 0.23011696052671682
+  }
+]
